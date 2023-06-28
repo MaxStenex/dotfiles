@@ -1,4 +1,5 @@
 export ZSH="$HOME/.oh-my-zsh"
+export PATH=/opt/homebrew/bin:$PATH
 
 # TMUX RGB colors
 [[ $TMUX != "" ]] && export TERM="screen-256color"
