@@ -4,7 +4,7 @@ export ZSH="$HOME/.oh-my-zsh"
 [[ $TMUX != "" ]] && export TERM="screen-256color"
 
 # Theme
-ZSH_THEME="robbyrussell"
+ZSH_THEME="bira"
 
 plugins=(git nvm)
 
