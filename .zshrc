@@ -1,5 +1,6 @@
+export GOPATH=$HOME/go
 export ZSH="$HOME/.oh-my-zsh"
-export PATH=/opt/homebrew/bin:$PATH
+export PATH=/opt/homebrew/bin:$PATH:$GOPATH/bin
 
 # TMUX RGB colors
 [[ $TMUX != "" ]] && export TERM="screen-256color"
