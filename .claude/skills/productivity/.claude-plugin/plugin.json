@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "productivity",
+  "version": "0.1.0",
+  "description": "General workflow skills, not code-specific (grill-me, grilling, handoff from mattpocock/skills)",
+  "author": {
+    "name": "Maxim",
+    "email": "yourstenex@gmail.com"
+  },
+  "skills": [
+    "./grill-me",
+    "./grilling",
+    "./handoff"
+  ]
+}
