@@ -1,6 +1,9 @@
 *
 !CLAUDE.md
+!settings.json
+!statusline.sh
 !agents/
 !agents/**
 !skills/
 !skills/**
+skills/synced/
