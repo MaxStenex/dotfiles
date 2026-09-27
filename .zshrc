@@ -1,4 +1,5 @@
 export GOPATH=$HOME/go
+export NVM_DIR="$HOME/.nvm"
 export ZSH="$HOME/.oh-my-zsh"
 
 path=(
