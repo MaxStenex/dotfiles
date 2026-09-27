@@ -12,4 +12,4 @@ Run typechecking regularly, single test files regularly, and the full test suite
 
 Once done, use /code-review to review the work.
 
-Commit your work to the current branch.
+Do not commit. Leave the changes uncommitted and stop: summarize what was done and the review findings, then wait for the user to review the diff themselves. Commit only after the user explicitly asks for it.
